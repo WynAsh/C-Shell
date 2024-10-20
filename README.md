@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/76mHqLr5)
-# Description
 
 This is a repository for the mid submission of the mini-project-1 of the course Operating Systems and Networks. It is programmed in C and is made to mimic the shell of a linux operating system.
 
