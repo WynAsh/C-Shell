@@ -1,0 +1,15 @@
+make
+./a 
+iMan git
+[A
+iMan git
+iMan strchar
+iMan git
+iMan sleep
+iMan git
+iMan sleep
+iMan git
+iMan git
+iMan git
+git add .
+git commit
